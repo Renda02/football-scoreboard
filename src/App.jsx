@@ -6,7 +6,7 @@ function App() {
   return (
     <div>
      <ScoreBoard/>
-     git
+     
     </div>
   );
 }
