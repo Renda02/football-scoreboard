@@ -7,16 +7,16 @@ function ScoreBoard() {
   return (
     <div>
       <h1> Live ScoreBoard</h1>
-    
+    <TitleBox><p id="elapsed">00'</p></TitleBox>
       <TitleBox>
         <Team>
-          <Image className="firstLogo" src={spain} alt="" />
-          <p className="first-Team">Spain</p>
+          <Image src={spain} alt="" />
+          <Teams>Spain</Teams>
         </Team>
         <Goals> 0 - 0 </Goals>
         <Team>
           <Image className="2ndLogo" src={brazil} alt="" />
-          <p className="first-Team">Brazil</p>
+          <Teams>Brazil</Teams>
         </Team>
       </TitleBox>
       <hr />
@@ -30,3 +30,6 @@ const Image = styled.img`
   height: 50px;
   width: 50px;
 `;
+
+const Teams=styled.p`
+text-transform:uppercase;`;

@@ -1,0 +1,32 @@
+[
+  {
+    "firstTeam": "Uruguary",
+    "firstScore": "6",
+    "secondTeam": "Italy",
+    "secondScore": "6"
+  },
+  {
+    "firstTeam": "Spain",
+    "firstScore": "10",
+    "secondTeam": "Brazil",
+    "secondScore": "2"
+  },
+  {
+    "firstTeam": "Mexico",
+    "firstScore": "0",
+    "secondTeam": "Canada",
+    "secondScore": "5"
+  },
+  {
+    "firstTeam": "Argentina",
+    "firstScore": "3",
+    "secondTeam": "Australia",
+    "secondScore": "1"
+  },
+  {
+    "firstTeam": "Germany",
+    "firstScore": "2",
+    "secondTeam": "France",
+    "secondScore": "2"
+  }
+]
