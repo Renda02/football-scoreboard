@@ -1,29 +1,34 @@
 [
   {
+    "id": "1",
     "firstTeam": "Uruguary",
     "firstScore": "6",
     "secondTeam": "Italy",
     "secondScore": "6"
   },
   {
+    "id": "2",
     "firstTeam": "Spain",
     "firstScore": "10",
     "secondTeam": "Brazil",
     "secondScore": "2"
   },
   {
+    "id": "3",
     "firstTeam": "Mexico",
     "firstScore": "0",
     "secondTeam": "Canada",
     "secondScore": "5"
   },
   {
+    "id": "4",
     "firstTeam": "Argentina",
     "firstScore": "3",
     "secondTeam": "Australia",
     "secondScore": "1"
   },
   {
+    "id": "5",
     "firstTeam": "Germany",
     "firstScore": "2",
     "secondTeam": "France",
